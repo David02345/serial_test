@@ -1,1 +1,2 @@
-# STM32CubeIDE serial test package
+# STM32CubeIDE 
+serial_test package
